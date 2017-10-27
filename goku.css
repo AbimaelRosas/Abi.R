@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+a{
+    color: yellow;
+    font-family: 'HankenBook';
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+   color: yellow;
+   font-family: 'Racing Sans One', cursive;
+   text-align: center;
+}
+
+p{
+    color: orange;
+    text-align: center;
+}
